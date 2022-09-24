@@ -1,0 +1,70 @@
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.exe
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.deps.json
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.runtimeconfig.json
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.runtimeconfig.dev.json
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.dll
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.pdb
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.Views.dll
+C:\Users\sun\source\repos\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.Views.pdb
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.csprojAssemblyReference.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication.StaticWebAssets.xml
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.AssemblyInfo.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.TagHelpers.input.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.TagHelpers.output.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorCoreGenerate.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.Views.pdb
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.dll
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.pdb
+C:\Users\sun\source\repos\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.csproj.CopyComplete
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\appsettings.json
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.exe
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.deps.json
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.runtimeconfig.json
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.runtimeconfig.dev.json
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.dll
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.pdb
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.Views.dll
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\bin\Debug\netcoreapp3.0\WebApplication.Views.pdb
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.csprojAssemblyReference.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication.StaticWebAssets.xml
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorAssemblyInfo.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorAssemblyInfo.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.AssemblyInfoInputs.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.AssemblyInfo.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.TagHelpers.input.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.TagHelpers.output.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorCoreGenerate.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorTargetAssemblyInfo.cache
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorTargetAssemblyInfo.cs
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.Views.pdb
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.dll
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.pdb
+D:\桌面常用\5 控制台程序\WebApplication\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.csproj.CopyComplete
